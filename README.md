@@ -13,7 +13,7 @@ A whatsapp chat analyzer, in which put your exported whatsapp chat and analyze i
   2. It gives you new insights of your chats, some new data.
   3. You can check your peak chat time, whether you both are active at midnight or midmorning (it reveal everything).
   4. You can see that how to build a whatsapp chat analyzer at least at basic level.
-  5. You can update it whenever you want or make more fine.
+  5. You can update it whenever you want, or make more fine.
 
  ## Mission: WhatsApp Analysis
 1. Export your chat without media.
